@@ -1,0 +1,11 @@
+body{
+  background: #f1f2f6;
+}
+header{
+  background: #FFF;
+  margin-bottom: 10px;
+}
+header a,.navbar-light .navbar-brand{
+  color:#da4453;
+  cursor: pointer;
+}
